@@ -25,6 +25,10 @@ body {
   text-align: center;
 }
 
+.cardStyle {
+  padding-bottom: 50px;
+}
+
 .intro {
   text-align: center;
 }
